@@ -48,12 +48,11 @@
 ```java
 public class Manahari {
 
-    String[] currentlyLearning = {"Machine Learning", "Python", "Deep Learning"};
+    String[] currentlyLearning = {"Machine Learning", "Data Engineering", "Deep Learning"};
     String[] interestedIn      = {"AI", "Data Science", "Problem Solving", "Real-World Impact"};
     String   workStyle         = "Hardworking · Self-motivated · Fast learner";
     String   goal              = "Leverage AI to build solutions that make a real difference";
 
-    }
 }
 ```
 
