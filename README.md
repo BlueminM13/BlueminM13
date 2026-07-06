@@ -1,6 +1,6 @@
 # Hi, I'm Manahari 👋
 
-🎓 I'm a 1st year AI and Data student with a growing passion in AI, ML, Data Science and Software Development. I'm committed to leveraging AI to develop impactful solutions. 
+🎓 I'm a 1st year AI and Data Science student with a growing passion in AI, ML, Data Science and Software Development. I'm committed to leveraging AI to develop impactful solutions. 
 
 
 ## 🛠️ Tech Stack
